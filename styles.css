@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.dicePlay {
+  width: 70%;
+}
+
+.dice {
+  text-align: center;
+  width: 30%;
+  display: inline-block;
+}
+
+body {
+  background-color: #000000;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Electrolize', sans-serif;
+  text-shadow: 3px 0 #11D2DB;
+  font-size: 3rem;
+  color: #EE3EC9;
+}
+
+p {
+  font-size: 2rem;
+  color: #EE3EC9;
+  font-family: 'Electrolize', sans-serif;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Electrolize', sans-serif;
+
+}
