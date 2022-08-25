@@ -2,5 +2,5 @@
 A simple dice game made by using HTML, CSS and JavaScript
 
 
-Refresh to play game.
+Refresh the page to play game.
 Link: https://dice-game-by-she.netlify.app/
